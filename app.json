@@ -1,6 +1,6 @@
 {
     "name": "JARVIS.",
-    "logo": "https://telegra.ph/file/83db3b7786ffa9948962b.jpg",
+    "logo": "https://telegra.ph/file/d6b09e3381126917fa363.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/doraemon890/Jarvis-X-spam",
+    "repository": "https://github.com/telegrambot622/Amrit-X-SPAM",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
