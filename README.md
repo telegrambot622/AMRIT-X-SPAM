@@ -7,7 +7,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/JARVIS_V2"><img src="https://telegra.ph/file/83db3b7786ffa9948962b.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/amrit_raj_9"><img src="https://telegra.ph/file/d6b09e3381126917fa363.jpg" width="400"></a></p>
 
 
 ``⭐️ Thanks to everyone for using this op JARVIS BOTS. That is the greatest pleasure we have !``
@@ -20,7 +20,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/doraemon890/Jarvis-X-spam)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/telegrambot622/Amrit-X-SPAM)
 
 </details>
 
